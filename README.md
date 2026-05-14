@@ -100,7 +100,7 @@ Supporting explanation document containing:
 Polynomial multiplication is accelerated using the Number Theoretic Transform:
 
 \[
-C(x) = A(x) \cdot B(x)
+C(x) = A(x) . B(x)
 \]
 
 Using NTT:
@@ -111,7 +111,7 @@ Using NTT:
 This reduces complexity from:
 
 \[
-O(N^2) \rightarrow O(N \log N)
+O(N^2) -> O(N log N)
 \]
 
 making it highly suitable for cryptographic systems.
