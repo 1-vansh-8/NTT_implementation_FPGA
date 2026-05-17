@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 ////////////////////////////////////////////////////////////////////////////////
 // Company:     Indian Institute of Technology, Gandhinagar
-// Engineer:    Pranay Arvind Patil 24110252
+// Engineer:    Vansh Goel
 //
 // Module Name: time_muxed_butterfly
 // Description: 3-phase time-multiplexed NTT convolution over GF(257).
