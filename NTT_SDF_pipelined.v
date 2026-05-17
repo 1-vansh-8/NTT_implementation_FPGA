@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: IIT Gandhinagar 
-// Engineer: Pranay Patil
+// Engineer: Vansh Goel
 // 
 // Create Date: 03/04/2026 11:24:40 AM
 // Design Name: ntt_sdf
