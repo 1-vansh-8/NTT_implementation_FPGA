@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 ////////////////////////////////////////////////////////////////////////////////
 // Company:     Indian Institute of Technology, Gandhinagar
-// Engineer:    Pranay Arvind Patil 24110252
+// Engineer:    Vansh Goel
 //
 // Module Name: butterfly
 // Description: NTT-based negacyclic convolution over GF(257).
